@@ -1,0 +1,13 @@
+# Token del bot en Discord
+token: "XxXxXxXxXxXxXxXxXxXxXxXx.AAAAAA.XxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxXx"
+# Url de una base de datos Redis para guardar datos varios
+# Se espera que tenga la persistencia activada
+redis: "redis://localhost"
+# Id de los emojis para representar cada palo
+# El bot debe estar en el servidor que tiene estos emojis
+# Para ver el ID envia un mensaje con \ y luego el emoji
+emojis:
+  copa: 985354607238742118
+  espada: 985354582379069481
+  oro: 985354559713083442
+  basto: 985354528356454400
